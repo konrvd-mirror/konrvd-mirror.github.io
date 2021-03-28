@@ -4,3 +4,6 @@ body {
 	background-color: black;
 	color:white;
 }
+nav, footer {
+	text-align:center;
+}
