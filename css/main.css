@@ -6,8 +6,7 @@ body {
 	color:white;
 }
 nav {
-	border-style: dashed;
-	border-color: cyan;
+	margin-bottom: 20px;
 }
 .nav-r{
 	float:right;
