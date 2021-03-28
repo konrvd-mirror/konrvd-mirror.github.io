@@ -11,6 +11,9 @@ nav, .container {
 .nav-r{
 	float:right;
 }
+.post * {
+	margin-bottom: 5px;
+}
 footer {
 	text-align:center;
 }
