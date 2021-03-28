@@ -5,6 +5,10 @@ body {
 	background-color: black;
 	color:white;
 }
+nav {
+	border-style: dashed;
+	border-color: cyan;
+}
 .nav-r{
 	float:right;
 }
