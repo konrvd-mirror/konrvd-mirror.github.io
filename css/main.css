@@ -5,7 +5,7 @@ body {
 	background-color: black;
 	color:white;
 }
-nav, container {
+nav, .container {
 	margin-bottom: 20px;
 }
 .nav-r{
