@@ -5,8 +5,11 @@ title: Konrvd Mirror
 <ul class="posts">
 
   {% for post in site.posts %}
-    <li><span>{{ post.date | date: "%d / %m / %Y" }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    <br>{{ post.excerpt }}</li>
+    <li>	
+		<span>{{ post.date | date: "%d / %m / %Y" }}</span> &raquo; {{ post.title }}
+		<br>{{ post.excerpt }}
+		<br><a href="{{ post.url }}" title="Seguir leyendo...">Seguir leyendo...</a>
+    </li>
   {% endfor %}
     
 </ul>
