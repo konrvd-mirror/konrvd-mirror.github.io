@@ -1,5 +1,0 @@
-name: Konrvd Mirror
-markdown: kramdown
-permalink: /:year/:month/:day/:title
-excerpt_separator: <!--sep-->
-
