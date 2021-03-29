@@ -14,6 +14,7 @@ nav, .container {
 .nav-r a {
 	width:45px;
 	display:inline-block;
+	border-color:red;
 }
 footer {
 	text-align:center;
