@@ -26,6 +26,7 @@ nav {
 	border-width: 1px;
 	border-radius:13em/13em;
 	width:20px;
+	line-height:20px;
 	display:inline-block;
 }
 nav, .container {
