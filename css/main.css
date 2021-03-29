@@ -17,7 +17,8 @@ nav {
 	padding:10px 10px 10px 10px;
 }
 .dd {
-	border-style:solid;
+	text-align:center;
+	border-style:1px solid;
 	border-radius:13em/13em;
 	width:20px;
 	margin-right:5px;
