@@ -5,6 +5,9 @@ body {
 	background-color: black;
 	color:white;
 }
+body a {
+	text-decoration:none;
+}
 nav {
 	background-color:white;
 	color:black;
@@ -18,7 +21,6 @@ nav, .container {
 }
 .nav-r a {
 	margin-left:10px;
-	display:inline-block;
 }
 footer {
 	text-align:center;
