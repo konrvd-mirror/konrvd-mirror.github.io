@@ -37,6 +37,7 @@ nav, .container {
 .container{
 	border-style: solid;
 	border-color: white;
+	padding:10px 10px 10px 10px;
 }
 footer {
 	text-align:center;
