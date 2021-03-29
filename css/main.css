@@ -7,6 +7,7 @@ body {
 }
 nav, .container {
 	margin-bottom: 20px;
+	
 }
 .nav-r{
 	float:right;
@@ -15,6 +16,7 @@ nav, .container {
 	width:45px;
 	display:inline-block;
 	border-color:red;
+	border-style: solid;
 }
 footer {
 	text-align:center;
