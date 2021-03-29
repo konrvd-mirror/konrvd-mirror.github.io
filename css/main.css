@@ -19,7 +19,7 @@ nav {
 .dd {
 	border-style:solid;
 	border-radius:13em/13em;
-	width:13em;
+	width:10px;
 	margin-right:5px;
 }
 nav, .container {
