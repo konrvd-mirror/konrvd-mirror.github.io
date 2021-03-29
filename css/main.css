@@ -5,6 +5,9 @@ body {
 	background-color: black;
 	color:white;
 }
+nav {
+	background-color:white;
+}
 nav, .container {
 	margin-bottom: 20px;
 	
