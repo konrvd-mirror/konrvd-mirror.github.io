@@ -18,7 +18,10 @@ nav {
 	font-family:helvetica;
 }
 .dd {
+/*
 	text-align:center;
+*/
+	padding:2px 2px 2px 2px;
 	transform: rotate(40deg);
 	border-style: solid;
 	border-width: 1px;
