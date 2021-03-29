@@ -1,1 +1,0 @@
-konrvd-mirror.github.io
