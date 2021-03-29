@@ -24,6 +24,7 @@ nav {
 	border-radius:13em/13em;
 	width:20px;
 	display:inline-block;
+	background-color:red;
 }
 nav, .container {
 	margin-bottom: 20px;
