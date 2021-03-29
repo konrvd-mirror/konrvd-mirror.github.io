@@ -18,7 +18,7 @@ nav {
 }
 .dd {
 	text-align:center;
-	transform: rotate(-120deg);
+	transform: rotate(40deg);
 	border-style: solid;
 	border-width: 1px;
 	border-radius:13em/13em;
