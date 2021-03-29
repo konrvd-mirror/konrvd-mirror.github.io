@@ -34,6 +34,10 @@ nav, .container {
 .nav-r a {
 	margin-left:10px;
 }
+.container{
+	border-style: solid;
+	border-color: white;
+}
 footer {
 	text-align:center;
 }
