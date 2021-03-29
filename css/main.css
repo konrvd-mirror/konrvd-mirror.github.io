@@ -19,9 +19,9 @@ nav {
 .dd {
 	border-style:solid;
 	border-radius:13em/13em;
-	width:10px;
+	width:20px;
 	margin-right:5px;
-	display:block;
+	display:inline-block;
 }
 nav, .container {
 	margin-bottom: 20px;
