@@ -11,6 +11,10 @@ nav, .container {
 .nav-r{
 	float:right;
 }
+.nav-r a {
+	width:35px;
+	display:inline-block;
+}
 footer {
 	text-align:center;
 }
