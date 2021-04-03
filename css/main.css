@@ -8,10 +8,10 @@
 	--mono-font-stack: Menlo, Monaco, Lucida Console, Liberation Mono,
 	  DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace,
 	  serif;
-	--background-color: #222225;
+	--background-color: #1d2324;
 	--page-width: 60em;
 	--font-color: #e8e9ed;
-	--invert-font-color: #222225;
+	--invert-font-color: #1d2324;
 	--secondary-color: #62c4ff;
 	--tertiary-color: #a3abba;
 	--primary-color: #62c4ff;
@@ -35,10 +35,15 @@
 .container__main {
     flex: 1;
     overflow: auto;
-    margin-left:160px;
+    margin-left:180px;
+    margin-bottom:20px;
 }
 
 .excerpt p {
 	margin:0;
 	padding:0;
+}
+.icon {
+	width:auto;
+	height:auto;
 }
