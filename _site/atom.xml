@@ -4,13 +4,24 @@
  <title>Your Blog</title>
  <link href="http://yourwebsiteurl.com/blog/atom.xml" rel="self"/>
  <link href="http://yourwebsiteurl.com/blog"/>
- <updated>2021-04-26T22:13:10-04:00</updated>
+ <updated>2021-04-27T00:01:30-04:00</updated>
  <id>http://yourwebsiteurl.com/blog</id>
  <author>
    <name>Your Name</name>
    <email>youremailaddress@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Hola Mundo</title>
+   <link href="http://yourwebsiteurl.com/2021/04/26/hola-mundo"/>
+   <updated>2021-04-26T00:00:00-04:00</updated>
+   <id>http://yourwebsiteurl.com//2021/04/26/hola-mundo</id>
+   <content type="html">&lt;p&gt;Si no escribía algo nuevamente me iba a explotar la cabeza, aun utilizo mi cabeza en muchas tareas diarias así que esto no era una opción. Era necesaria la primera piedra, un titulo demostrativo, luego un texto lo menos cargado posible con anhelos y proyecciones, para no correr el riesgo de invocar a la complacencia que ha condenado tantos proyectos.&lt;/p&gt;
+
+&lt;p&gt;Por ahora eso es todo, Mundo.&lt;/p&gt;
+</content>
+ </entry>
  
  
 </feed>
