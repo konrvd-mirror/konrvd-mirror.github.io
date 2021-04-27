@@ -2,4 +2,14 @@
 layout: default
 title: Inicio
 ---
-Here it comes...
+{% for post in site.posts %}
+	<br>
+	<div class="terminal-card">
+		<header>{{ post.title }}</header>
+		<div class="excerpt">{{ post.excerpt }}</div>
+		<small>
+			[{{ post.date | date: "%d / %m / %Y" }}][<a href="{{ post.url }}" title="Seguir leyendo">Seguir leyendo</a>]
+		</small>
+	</div>
+{% endfor %}  
+
